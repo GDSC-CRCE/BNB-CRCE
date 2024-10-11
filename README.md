@@ -21,6 +21,8 @@ Welcome to the **Bit N Build International Hackathon**! Get ready to unleash you
   - Utilize AI tools to assist in your project, but fully pre-built solutions or ready-made projects are off-limits.
 - **Development**: 
   - Get coding during the hackathon! You can build on past ideas but **no old code** allowed!
+- **Code Submission**: 
+  - All the code must be pushed to the repository provided by the organizers only. This is crucial for tracking your progress and ensuring a fair competition.
 
 ---
 
@@ -32,20 +34,22 @@ Welcome to the **Bit N Build International Hackathon**! Get ready to unleash you
   - Heavy APIs? Only with the judges' approval! 🧐
 - **Assets**: 
   - Any assets used should adhere to the Creative Commons License or similar licenses. Make sure you have the proper permissions!
+- **Repository Usage**: 
+  - Remember, all your project code should be stored in the designated repository provided by the organizers. This ensures all teams have an equal platform for showcasing their work!
 
 ---
 
 ## ⏰ 4. GitHub and Code Submission
 
 - **Commitment to GitHub**: 
-  - Push your code regularly (every **4 hours**). Missing commits? 😱 You could face disqualification!
+  - Push your code regularly (every **4 hours**) to the **repository provided by the organizers**. Missing commits? 😱 You could face disqualification!
 - **README**: 
   - Your GitHub repository must include a README that covers:
     - Team details
     - Project abstract
     - Domain and tools used
 - **Final Submission**: 
-  - The final commit must be in by **9:00 PM** on the 12th. Ensure your projects are deployed and ready for demo presentations! 
+  - Ensure your projects are deployed and ready for demo presentations! 
 
 ---
 
